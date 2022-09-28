@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">number_app</string>
+    <string name="click_me">click me</string>
+    <string name="click_to_start_the_challenge">Click to start the challenge</string>
+</resources>
